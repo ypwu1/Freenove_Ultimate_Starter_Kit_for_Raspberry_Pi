@@ -1,0 +1,19 @@
+{
+  "name": "freenove_ultimate_starter_kit_for_raspberry_pi",
+  "version": "1.0.0",
+  "description": "Freenove Ultimate Starter Kit for Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypwu1/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypwu1/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/issues"
+  },
+  "homepage": "https://github.com/ypwu1/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi#readme"
+}
